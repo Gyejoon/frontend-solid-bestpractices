@@ -11,3 +11,8 @@ Next + TypeScript + React Query + Recoil + React Hook Form
   - 디렉터리 구조 설계
   - SSR 문제
     - 어떻게 해결할지 스터디
+- TypeScript
+- Next
+  - getStaticProps 활용방안
+    - revalidate 옵션?
+  - getInitialProps 활용방안
